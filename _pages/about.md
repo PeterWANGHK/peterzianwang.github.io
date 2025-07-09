@@ -17,42 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/). I am currently pursuing an M.Phil. degree in [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://chensunmac.github.io/). My current research interests include game theory in autonomous driving, time-series analysis, SLAM, and intelligent transportation systems, with a particular focus on pipeline fault diagnostics and mean-field game theory.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 I am happy to share that I have received admission from [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy candidate, with effect from September 2025! Thanks to everyone who has supported my application!
+- *2025.05*: &nbsp;🎉🎉 I have successfully graduated from the Hong Kong Polytechnic University with a Bachelor of Engineering degree in May 2025. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Thanks to everyone who has helped me through the years at PolyU, and congratulations to the Class of 2025, BEng in EIE cohort!
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+To be added
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- HKSAR Government Scholarship Fund – Talent Development Scholarship 2024/25
+- Dean's Honours List (2023-2024, 2024-2025)
+- Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
+- Championship at HKAES University Pitch Competition on Global Grand Challenges 2023/2024 [Presentation](https://youtu.be/DYg3fTBqf4k?si=eRdQMjBGE5m_t1El)
+- Best GBA Solution Award at Cathay Hackathon 2023
+- The HKSAR Government Scholarship Fund - Reaching Out Award 2022/23
+- Undergraduate Research and Innovation Scholarship
+- Merit Award, EIE Microcontroller Application Design Contest 2022-2023 [Interview](https://youtu.be/A_ULsiMEHNg?si=wbyhg5ZbedgI3tPD)
+- Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/)
+- *2021.08 - 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
+Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
+- *2024.08*, Design and Implementation of an Intelligent Trash Collection Robot with Speech Recognition, Dynamic Control, and YOLO Object Detection, PolyU Research Student Conference 2024
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2023.05*, China Mobile Tietong Co.Ltd, Chengdu, China.
