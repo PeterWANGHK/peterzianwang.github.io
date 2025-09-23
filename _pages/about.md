@@ -50,6 +50,3 @@ To be added
 - *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
 Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
 - *2024.08*, Design and Implementation of an Intelligent Trash Collection Robot with Speech Recognition, Dynamic Control, and YOLO Object Detection, PolyU Research Student Conference 2024
-
-# 💻 Internships
-- *2023.05 - 2023.05*, China Mobile Tietong Co.Ltd, Chengdu, China.
