@@ -46,7 +46,7 @@ To be added
 - *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/)
 - *2021.08 - 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/)
 
-# 💬 Invited Talks
+# 💬 Presentations
 - *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
 Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
 - *2024.08*, Design and Implementation of an Intelligent Trash Collection Robot with Speech Recognition, Dynamic Control, and YOLO Object Detection, PolyU Research Student Conference 2024
