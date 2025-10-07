@@ -23,6 +23,10 @@ My current research interests include broad topics in autonomous driving, intell
 
 I am passionate about exploring grand challenges and creating innovative solutions. Through different entrepreneurship competition experiences, I have also acquired analytical, logistical, and writing skills that enable me to conduct research and develop business ideas. I have also pursued diverse academic opportunities in overseas studies, joining [exchange programs at DTU, Denmark](https://youtu.be/B7oA12MpVZc?si=FvIFWEdXofnySJdp), and [exchange programs at NTU, Singapore](https://ntu-sa.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11025), where I learned about programming, data processing, and human-computer interaction. Additionally, I have received multiple scholarships and awards, such as the Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship, the Merit Award at the [Microcontroller Application Design Contest](https://www.eie.polyu.edu.hk/event/madc2022-23/), HKSAR Government Scholarship Fund, and Championship at the 2023-24 HKAE Pitch Competition, where I apply my pitch and research skills to address complex and interdisciplinary problems.
 
+# 📖 Educations
+- *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/)
+- *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/)
+
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 I am happy to share that I have received admission from [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy candidate, with effect from September 2025! Thanks to everyone who has supported my application!
 - *2025.05*: &nbsp;🎉🎉 I have successfully graduated from the Hong Kong Polytechnic University with a Bachelor of Engineering degree in May 2025. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Thanks to everyone who has helped me through the years at PolyU, and congratulations to the Class of 2025, BEng in EIE cohort!
@@ -42,10 +46,11 @@ To be added
 - Merit Award, EIE Microcontroller Application Design Contest 2022-2023 [Interview](https://youtu.be/A_ULsiMEHNg?si=wbyhg5ZbedgI3tPD)
 - Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship
 
-# 📖 Educations
-- *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/)
-- *2021.08 - 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/)
-
+# 📖 Teaching and Mentorship
+- *2025.09 to 2025.12*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (2025 Fall MSc) [Course Repo available](https://github.com/PeterWANGHK/DASE7505_student)
+- *2026.01 to 2026.05* (planned), Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (2026 Spring BEng) (coming soon)
+- *2025.10 to 2026.05*, Postgraduate Mentor at Chi Sun College, HKU Jockey Club Student Village III
+  
 # 💬 Presentations
 - *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
 Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
