@@ -21,7 +21,7 @@ Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in
 
 My current research interests include broad topics in autonomous driving, intelligent transportation systems, time-series analysis with fault diagnosis, and SLAM.
 
-I am passionate about exploring grand challenges and creating innovative solutions. Through different entrepreneurship competition experiences, I have also acquired analytical, logistical, and writing skills that enable me to conduct research and develop business ideas. I have also pursued diverse academic opportunities in overseas studies, joining [exchange programs at DTU, Denmark](https://youtu.be/B7oA12MpVZc?si=FvIFWEdXofnySJdp), and [exchange programs at NTU, Singapore](https://ntu-sa.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11025), where I learned about programming, data processing, and human-computer interaction. Additionally, I have received multiple scholarships and awards, such as the Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship, the Merit Award at the [Microcontroller Application Design Contest](https://www.eie.polyu.edu.hk/event/madc2022-23/), HKSAR Government Scholarship Fund, and Championship at the 2023-24 HKAE Pitch Competition, where I apply my pitch and research skills to address complex and interdisciplinary problems.
+I am passionate about exploring grand challenges and creating innovative solutions. Through different entrepreneurship competition experiences, I have also acquired analytical, logistical, and writing skills that enable me to conduct research and develop business ideas. I have also pursued diverse academic opportunities in overseas studies, joining [exchange programme at DTU, Denmark](https://youtu.be/B7oA12MpVZc?si=FvIFWEdXofnySJdp), and [exchange programme at NTU, Singapore](https://ntu-sa.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11025), where I learned about programming, data processing, and human-computer interaction. Additionally, I have received multiple scholarships and awards, such as the Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship, the Merit Award at the [Microcontroller Application Design Contest](https://www.eie.polyu.edu.hk/event/madc2022-23/), HKSAR Government Scholarship Fund, and Championship at the 2023-24 HKAE Pitch Competition, where I apply my pitch and research skills to address complex and interdisciplinary problems.
 
 # 📖 Educations
 - *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/)
@@ -37,14 +37,14 @@ To be added
 
 # 🎖 Honors and Awards
 - HKSAR Government Scholarship Fund – Talent Development Scholarship 2024/25
-- Dean's Honours List (2023-2024, 2024-2025)
+- Dean's Honours List (2023-2024, 2024-2025), Faculty of Engineering, Hong Kong Polytechnic University
 - Best Presentation Award at the 2nd PolyU Research Student Conference (PRSC 2024)
 - Championship at HKAES University Pitch Competition on Global Grand Challenges 2023/2024 [Presentation](https://youtu.be/DYg3fTBqf4k?si=eRdQMjBGE5m_t1El)
 - Best GBA Solution Award at Cathay Hackathon 2023
 - The HKSAR Government Scholarship Fund - Reaching Out Award 2022/23
-- Undergraduate Research and Innovation Scholarship
+- Undergraduate Research and Innovation Scholarship 2023-2024, Graduate School, Hong Kong Polytechnic University
 - Merit Award, EIE Microcontroller Application Design Contest 2022-2023 [Interview](https://youtu.be/A_ULsiMEHNg?si=wbyhg5ZbedgI3tPD)
-- Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship
+- Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship, Hong Kong Polytechnic University
 
 # 📖 Teaching and Mentorship
 - *2025.09 to 2025.12*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (2025 Fall MSc) [Course Repo available](https://github.com/PeterWANGHK/DASE7505_student)
