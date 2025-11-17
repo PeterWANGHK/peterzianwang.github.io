@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zian's Homepage"
-description              : "MPhil Candidate at HKU DASE"
+description              : "MPhil student at HKU DASE"
 repository               : "PeterWANGHK/peterzianwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/profile.png"
   bio              : "The University of Hong Kong"
   location         : "Hong Kong SAR, China"
-  employer         :
+  employer         : "Department of Data and Systems Engineering"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "peterwang.dase@connect.hku.hk"
@@ -40,7 +40,7 @@ author:
   github           : "PeterWANGHK"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/peter_wanghk?igsh=MTF6ZG85ZXNzZTlrOA%3D%3D&utm_source=qr"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "zian-wanghk"
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : #
+  youtube          : "http://www.youtube.com/@zianwang328"
   wikipedia        :
 
 
