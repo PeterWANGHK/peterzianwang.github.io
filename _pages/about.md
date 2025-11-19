@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/). I am currently pursuing an M.Phil. degree in [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://chensunmac.github.io/). Our research group directed by Prof. Sun is called Safe Autonomous Systems Lab (HKU-SAS). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. 
+Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, with thesis supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/). I am currently pursuing an M.Phil. degree in [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://chensunmac.github.io/). Our research group directed by Prof. Sun is called Safe Autonomous Systems Lab (HKU-SAS). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. 
 
-My current research interests include broad topics in autonomous driving, intelligent transportation systems, time-series analysis with fault diagnosis, and SLAM.
+My current research interests include broad topics in *autonomous driving, intelligent transportation systems, time-series analysis with fault diagnosis, and SLAM.*
 
 I am passionate about exploring grand challenges and creating innovative solutions. Through different entrepreneurship competition experiences, I have also acquired analytical, logistical, and writing skills that enable me to conduct research and develop business ideas. I have also pursued diverse academic opportunities in overseas studies, joining [exchange programme at DTU, Denmark](https://youtu.be/B7oA12MpVZc?si=FvIFWEdXofnySJdp), and [exchange programme at NTU, Singapore](https://ntu-sa.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11025), where I learned about programming, data processing, and human-computer interaction. Additionally, I have received multiple scholarships and awards, such as the Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship, the Merit Award at the [Microcontroller Application Design Contest](https://www.eie.polyu.edu.hk/event/madc2022-23/), HKSAR Government Scholarship Fund, and Championship at the 2023-24 HKAE Pitch Competition, where I apply my pitch and research skills to address complex and interdisciplinary problems.
 
 # 📖 Educations
 - *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/)
-- *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/)
+- *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Thesis Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/)
+
+# 💻 Work
+- *2025.11 to now*, Part-time Research Assistant, affliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 I am happy to share that I have received admission from [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy candidate, with effect from September 2025! Thanks to everyone who has supported my application!
@@ -33,7 +36,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 # 📝 Publications
 
-- "Physics-Informed State Space Modeling for Multimodal Pipe Inspection and Defect Analysis" authored by Zian Wang, Mingjian Yu, Yiming Shu, Xiangjie Kong, and Chen Sun. (submitted to IEEE Transactions on Instrumentation and Measurement (IEEE-TIM))
+- "Physics-Informed State Space Modeling for Multimodal Pipe Inspection and Defect Analysis" authored by Zian Wang, Mingjian Yu, Yiming Shu, Xiangjie Kong, and Chen Sun. (In submission to IEEE Transactions on Instrumentation and Measurement (IEEE-TIM))
 
 # 🎖 Honors and Awards
 - HKSAR Government Scholarship Fund – Talent Development Scholarship 2024/25
