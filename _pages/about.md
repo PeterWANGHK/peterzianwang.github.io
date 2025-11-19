@@ -28,7 +28,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 - *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Thesis Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/)
 
 # 💻 Work
-- *2025.11 to now*, Part-time Research Assistant, affliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
+- *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 I am happy to share that I have received admission from [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy candidate, with effect from September 2025! Thanks to everyone who has supported my application!
