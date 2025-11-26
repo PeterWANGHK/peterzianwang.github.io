@@ -31,8 +31,8 @@ I am passionate about exploring grand challenges and creating innovative solutio
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 I am happy to share that I have received admission from [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy candidate, with effect from September 2025! Thanks to everyone who has supported my application!
-- *2025.05*: &nbsp;🎉🎉 I have successfully graduated from the Hong Kong Polytechnic University with a Bachelor of Engineering degree in May 2025. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Thanks to everyone who has helped me through the years at PolyU, and congratulations to the Class of 2025, BEng in EIE cohort!
+- *2025.09*: &nbsp;🎉🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAS Lab!
+- *2025.05*: &nbsp;🎉🎉 I have successfully satisfied the requirements for the degree of BEng in Electronic and Information Engineering. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Congratulations to the Class of 2025, BEng in EIE cohort!
 
 # 📝 Publications
 
