@@ -36,7 +36,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 # 📝 Publications
 
-- "Physics-Informed State Space Modeling for Multimodal Pipe Inspection and Defect Analysis" authored by Zian Wang, Mingjian Yu, Yiming Shu, Xiangjie Kong, and Chen Sun. (In submission to IEEE Transactions on Instrumentation and Measurement (IEEE-TIM))
+To be updated
 
 # 🎖 Honors and Awards
 - HKSAR Government Scholarship Fund – Talent Development Scholarship 2024/25
