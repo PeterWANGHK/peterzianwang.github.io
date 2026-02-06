@@ -19,7 +19,7 @@ redirect_from:
 
 Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, with thesis supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-ho-ivan/). I am currently pursuing an M.Phil. degree in [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://chensunmac.github.io/). Our research group directed by Prof. Sun is called Safe Autonomous Systems Lab (HKU-SAS). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. 
 
-My current research interests include broad topics in *autonomous driving, intelligent transportation systems, time-series analysis with fault diagnosis, and SLAM.*
+My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
 I am passionate about exploring grand challenges and creating innovative solutions. Through different entrepreneurship competition experiences, I have also acquired analytical, logistical, and writing skills that enable me to conduct research and develop business ideas. I have also pursued diverse academic opportunities in overseas studies, joining [exchange programme at DTU, Denmark](https://youtu.be/B7oA12MpVZc?si=FvIFWEdXofnySJdp), and [exchange programme at NTU, Singapore](https://ntu-sa.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11025), where I learned about programming, data processing, and human-computer interaction. Additionally, I have received multiple scholarships and awards, such as the Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship, the Merit Award at the [Microcontroller Application Design Contest](https://www.eie.polyu.edu.hk/event/madc2022-23/), HKSAR Government Scholarship Fund, and Championship at the 2023-24 HKAE Pitch Competition, where I apply my pitch and research skills to address complex and interdisciplinary problems.
 
@@ -38,6 +38,9 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 To be updated
 
+# 💬 Invited Talks
+- *2026.03* (scheduled): "Toward Unified Risk Field Representations for Interactive Autonomous Driving: A Comparative Study and Future Directions" student seminar hosted by Institute of Transport Studies, University of Hong Kong
+
 # 🎖 Honors and Awards
 - HKSAR Government Scholarship Fund – Talent Development Scholarship 2024/25
 - Dean's Honours List (2023-2024, 2024-2025), Faculty of Engineering, Hong Kong Polytechnic University
@@ -50,10 +53,10 @@ To be updated
 - Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship, Hong Kong Polytechnic University
 
 # 📖 Teaching and Mentorship
-- *2025.09 to 2025.12*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (2025 Fall MSc) [Course Repo available](https://github.com/PeterWANGHK/DASE7505_student)
-- *2026.01 to 2026.05* (assigned), Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (2026 Spring BEng) (Course Repo coming soon)
+- *2025.09 to 2025.12*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (2025 Fall MSc) [Course Repo available](https://github.com/SAS-HKU/DASE7505_student.git)
+- *2026.01 to 2026.05* (assigned), Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (2026 Spring BEng) [Course Repo available](https://github.com/SAS-HKU/DASE4136_student.git)
 - *2025.10 to 2026.05*, Postgraduate Mentor at Chi Sun College, HKU Jockey Club Student Village III
-  
+
 # 💬 Presentations
 - *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
 Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
