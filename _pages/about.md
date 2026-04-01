@@ -31,6 +31,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 I gave my first-ever academic seminar at HKU-ITS! Thanks all colleagues for participation and the invitation from Mr. Qingyang Li.
 - *2025.09*: &nbsp;🎉🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAS Lab!
 - *2025.05*: &nbsp;🎉🎉 I have successfully satisfied the requirements for the degree of BEng in Electronic and Information Engineering. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Congratulations to the Class of 2025, BEng in EIE cohort!
 
@@ -39,7 +40,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 **Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic](https://ssrn.com/abstract=6500569)
 
 # 💬 Invited Talks
-- *2026.03* (scheduled): "Toward Unified Risk Field Representations for Interactive Autonomous Driving: A Comparative Study and Future Directions" student seminar hosted by Institute of Transport Studies, University of Hong Kong
+- *2026.03.11*: [Toward Unified Risk Field Representations for Interactive Autonomous Driving: A Comparative Study and Future Directions](https://institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm). Student seminar hosted by Institute of Transport Studies, The University of Hong Kong
 
 # 🎖 Honors and Awards
 - HKSAR Government Scholarship Fund – Talent Development Scholarship 2024/25
