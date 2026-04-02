@@ -41,6 +41,8 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 **Zian Wang**, Yiming Shu, Jiahui Xu, Jiayang Li, Chen Sun* *Trustworthy mixed-autonomy traffic systems under uncertainty: from microscopic safe control to macroscopic flow theory* (in submission)
 
+Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (co-first authort, in submission)
+
 # 💬 Invited Talks
 - *2026.03.11*: [Toward Unified Risk Field Representations for Interactive Autonomous Driving: A Comparative Study and Future Directions](https://institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm). Student seminar hosted by Institute of Transport Studies, The University of Hong Kong
 
