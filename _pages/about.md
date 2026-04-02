@@ -38,6 +38,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 # 📝 Publications
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic](https://ssrn.com/abstract=6500569)
+**Zian Wang**, Yiming Shu, Jiahui Xu, Jiayang Li, Chen Sun* *Trustworthy mixed-autonomy traffic systems under uncertainty: from microscopic safe control to macroscopic flow theory* (in submission)
 
 # 💬 Invited Talks
 - *2026.03.11*: [Toward Unified Risk Field Representations for Interactive Autonomous Driving: A Comparative Study and Future Directions](https://institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm). Student seminar hosted by Institute of Transport Studies, The University of Hong Kong
