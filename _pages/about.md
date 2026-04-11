@@ -39,9 +39,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic*](https://ssrn.com/abstract=6500569) (in submission to TR-C)
 
-**Zian Wang**, Yiming Shu, Jiahui Xu, Jiayang Li, Chen Sun* *Trustworthy mixed-autonomy traffic systems under uncertainty: from microscopic safe control to macroscopic flow theory* (in submission)
-
-Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (co-first authort, in submission to IEEE-TIM)
+Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, in submission to IEEE-TII)
 
 # 💬 Invited Talks
 - *2026.03.11*: [Toward Unified Risk Field Representations for Interactive Autonomous Driving: A Comparative Study and Future Directions](https://institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm). Student seminar hosted by Institute of Transport Studies, The University of Hong Kong
@@ -61,6 +59,7 @@ Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascad
 - *2025.09 to 2025.12*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (2025 Fall MSc) [Course Repo available](https://github.com/SAS-HKU/DASE7505_student.git)
 - *2026.01 to 2026.05* (assigned), Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (2026 Spring BEng) [Course Repo available](https://github.com/SAS-HKU/DASE4136_student.git)
 - *2025.10 to 2026.05*, Postgraduate Mentor at Chi Sun College, HKU Jockey Club Student Village III
+- *2026.04*, mentorship for HKU Engineering Elite Programme Student for Lab Shadowing
 
 # 💬 Presentations
 - *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
