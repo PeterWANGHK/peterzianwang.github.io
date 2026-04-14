@@ -41,7 +41,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, in submission to IEEE-TII)
 
-Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian WANG**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (in submission to IEEE CDC 2026)
+Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (in submission to IEEE CDC 2026)
 
 # 💬 Invited Talks
 - *2026.03.11*: [Toward Unified Risk Field Representations for Interactive Autonomous Driving: A Comparative Study and Future Directions](https://institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm). Student seminar hosted by Institute of Transport Studies, The University of Hong Kong
