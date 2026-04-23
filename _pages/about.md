@@ -37,11 +37,15 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 # 📝 Publications
 
-**Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic*](https://ssrn.com/abstract=6500569) (in submission)
+**Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic*](https://ssrn.com/abstract=6500569) (under review)
 
-Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, in submission)
+**Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun* *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving* (under review)
 
-Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (in submission)
+Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *SAIL: Socially Aware Robot Navigation Guided by Incremental Conflict Prediction and LLM-Driven Bilevel MPC* (under review)
+
+Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, under review)
+
+Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (under review)
 
 Guoshun Cai, Chen Sun*, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update* (in submission)
 
