@@ -37,13 +37,17 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 # 📝 Publications
 
-**Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic*](https://ssrn.com/abstract=6500569) (in submission to TR-C)
+**Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic*](https://ssrn.com/abstract=6500569) (in submission)
 
-Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, in submission to IEEE TII)
+Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, in submission)
 
-Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (in submission to IEEE CDC 2026)
+Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (in submission)
 
-Guoshun Cai, Chen Sun*, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update* (in submission to IEEE TASE)
+Guoshun Cai, Chen Sun*, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update* (in submission)
+
+
+Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance* (in submission)
+
 
 # 💬 Invited Talks
 - *2026.03.11*: [Toward Unified Risk Field Representations for Interactive Autonomous Driving: A Comparative Study and Future Directions](https://institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm). Student seminar hosted by Institute of Transport Studies, The University of Hong Kong
