@@ -47,7 +47,7 @@ Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascad
 
 Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (under review)
 
-Guoshun Cai, Chen Sun*, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update* (in submission)
+Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update* (in submission)
 
 
 Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance* (in submission)
