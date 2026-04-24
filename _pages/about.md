@@ -1,4 +1,4 @@
----
+<img width="2983" height="140" alt="图片" src="https://github.com/user-attachments/assets/5639c4d0-654e-47ed-91a2-13fe756ed1ef" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -40,6 +40,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 **Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic*](https://ssrn.com/abstract=6500569) (under review)
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun* *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving* (under review)
+**Zian Wang**, Wenjie Huang, Chen Sun* *Learning Optimal Policies for Socially-Aware Autonomous Driving via Spatiotemporal Field Propagation* (in submission)
 
 Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *SAIL: Socially Aware Robot Navigation Guided by Incremental Conflict Prediction and LLM-Driven Bilevel MPC* (under review)
 
