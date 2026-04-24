@@ -1,12 +1,4 @@
-<img width="2983" height="140" alt="图片" src="https://github.com/user-attachments/assets/5639c4d0-654e-47ed-91a2-13fe756ed1ef" />---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
