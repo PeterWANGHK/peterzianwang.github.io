@@ -39,6 +39,8 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun* *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving* (under review)
 
+**Zian Wang**, Mingjian Yu, Yiming Shu, Xiangjie Kong, Yao Cheng, Chen Sun* [*Drift-Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning for Critical Infrastructure Safety*](https://doi.org/10.2139/ssrn.6661502) (under review)
+
 **Zian Wang**, Wenjie Huang, Chen Sun* *Learning Optimal Policies for Socially-Aware Autonomous Driving via Spatiotemporal Field Propagation* (in submission)
 
 Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *SAIL: Socially Aware Robot Navigation Guided by Incremental Conflict Prediction and LLM-Driven Bilevel MPC* (under review)
