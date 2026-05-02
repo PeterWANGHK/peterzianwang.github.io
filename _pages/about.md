@@ -38,7 +38,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic*](https://ssrn.com/abstract=6500569) (under review)
 
-**Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun* *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving* (**accepted by [IEEE ITSC 2026 (CCF-B)](https://ieee-itsc.org/2026/)**)
+**Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun* *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving* (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
 
 **Zian Wang**, Mingjian Yu, Yiming Shu, Xiangjie Kong, Yao Cheng, Chen Sun* [*Drift-Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning for Critical Infrastructure Safety*](https://doi.org/10.2139/ssrn.6661502) (under review)
 
