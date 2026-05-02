@@ -29,6 +29,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
 - *2026.03*: &nbsp;🎉🎉 I gave my first-ever academic seminar at [HKU-ITS](https://institute-of-transport-studies.hku.hk/). Thanks all colleagues for participation and the invitation from Mr. Qingyang Li.
 - *2025.09*: &nbsp;🎉🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAS Lab!
 - *2025.05*: &nbsp;🎉🎉 I have successfully satisfied the requirements for the degree of BEng in Electronic and Information Engineering. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Congratulations to the Class of 2025, BEng in EIE cohort!
@@ -37,13 +38,11 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic*](https://ssrn.com/abstract=6500569) (under review)
 
-**Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun* *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving* (under review)
+**Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun* *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving* (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
 
 **Zian Wang**, Mingjian Yu, Yiming Shu, Xiangjie Kong, Yao Cheng, Chen Sun* [*Drift-Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning for Critical Infrastructure Safety*](https://doi.org/10.2139/ssrn.6661502) (under review)
 
 **Zian Wang**, Wenjie Huang, Chen Sun* *Learning Optimal Policies for Socially-Aware Autonomous Driving via Spatiotemporal Field Propagation* (in submission)
-
-Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *SAIL: Socially Aware Robot Navigation Guided by Incremental Conflict Prediction and LLM-Driven Bilevel MPC* (under review)
 
 Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, under review)
 
