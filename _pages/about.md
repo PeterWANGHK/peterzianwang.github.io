@@ -48,10 +48,11 @@ Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascad
 
 Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (under review)
 
-Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update* (in submission)
+Yiming Shu, Jiahui Xu, Jiwei Tang, Ruiyang Gao, **Zian Wang**, Chen Sun* [*LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving*](https://arxiv.org/pdf/2512.05686) (major revision)
 
+Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update* (under review)
 
-Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance* (in submission)
+Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance* (under review)
 
 
 # 💬 Invited Talks
