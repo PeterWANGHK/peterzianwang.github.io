@@ -79,4 +79,4 @@ Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-P
 - *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
 Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
 - *2024.08*, Design and Implementation of an Intelligent Trash Collection Robot with Speech Recognition, Dynamic Control, and YOLO Object Detection, PolyU Research Student Conference 2024
-- *2026.09*, DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving, oral paper presentation at The IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026, Naples, Italy.
+- *2026.09* (scheduled), *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving*, oral paper presentation at [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/), Naples, Italy.
