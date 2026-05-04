@@ -71,7 +71,7 @@ Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-P
 
 # 📖 Teaching and Mentorship
 - *2025.09 to 2025.12*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (2025 Fall MSc) [Course Repo available](https://github.com/SAS-HKU/DASE7505_student.git)
-- *2026.01 to 2026.05* (assigned), Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (2026 Spring BEng) [Course Repo available](https://github.com/SAS-HKU/DASE4136_student.git)
+- *2026.01 to 2026.05*, Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (2026 Spring BEng) [Course Repo available](https://github.com/SAS-HKU/DASE4136_student.git)
 - *2025.10 to 2026.05*, Postgraduate Mentor at Chi Sun College, HKU Jockey Club Student Village III
 - *2026.04*, mentorship for HKU Engineering Elite Programme Student for Lab Shadowing
 
@@ -79,3 +79,4 @@ Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-P
 - *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
 Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
 - *2024.08*, Design and Implementation of an Intelligent Trash Collection Robot with Speech Recognition, Dynamic Control, and YOLO Object Detection, PolyU Research Student Conference 2024
+- *2026.09*, DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving, oral paper presentation at The IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026, Naples, Italy.
