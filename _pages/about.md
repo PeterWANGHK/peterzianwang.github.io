@@ -27,7 +27,7 @@ I am passionate about exploring grand challenges and creating innovative solutio
 
 # 💻 Positions
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
-- *2026.05 to now*, Designate Chairperson of Student Committee, [HKU Institute of Transport Studies] (https://institute-of-transport-studies.hku.hk/)
+- *2026.05 to now*, Designate Chairperson of Student Committee, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
