@@ -15,7 +15,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, with thesis supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/). I am currently pursuing an M.Phil. degree in [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://chensunmac.github.io/). Our research group directed by Prof. Sun is called Social-AI Systems Lab (HKU-SAS). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. 
+Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, with thesis supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/). I am currently pursuing an M.Phil. degree in [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://chensunmac.github.io/). Our research group directed by Prof. Sun is called [Social-AI Systems Lab (HKU-SAS)](https://github.com/SAS-HKU). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. 
 
 My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
@@ -27,8 +27,8 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 - *2018 to 2021*, Chengdu Shude High School (Foreign Language Campus)
 
 # 💻 Positions
-- *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 - *2026.05 to now*, Designate Chairperson of Student Committee, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
+- *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
@@ -47,6 +47,8 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 **Zian Wang**, Mingjian Yu, Yiming Shu, Xiangjie Kong, Yao Cheng, Chen Sun* [*Drift-Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning for Critical Infrastructure Safety*](https://doi.org/10.2139/ssrn.6661502) (under review)
 
 **Zian Wang**, Wenjie Huang, Chen Sun* *Learning Optimal Policies for Socially-Aware Autonomous Driving via Spatiotemporal Field Propagation* (in submission)
+
+Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *SAIL: Socially Aware Robot Navigation Guided by Incremental Conflict Prediction and LLM-Driven Bilevel MPC* (in submission)
 
 Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, under review)
 
