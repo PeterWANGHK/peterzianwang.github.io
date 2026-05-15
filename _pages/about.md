@@ -19,6 +19,16 @@ Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in
 
 My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
+# 🔥 News
+- *2026.05*: &nbsp;🎉🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
+- *2026.03*: &nbsp;🎤🎤 I gave my first-ever academic seminar at [HKU-ITS](https://institute-of-transport-studies.hku.hk/). Thanks all colleagues for participation and the invitation from Mr. Qingyang Li.
+- *2025.09*: &nbsp;🎉🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAS Lab!
+- *2025.05*: &nbsp;🎉🎉 I have successfully satisfied the requirements for the degree of BEng in Electronic and Information Engineering. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Congratulations to the Class of 2025, BEng in EIE cohort!
+
+# 💻 Positions
+- *2026.05 to now*, Designate Chairperson of Student Committee, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
+- *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
+
 # 📖 Educational Experiences
 - *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/)
 - *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Thesis Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/)
@@ -26,15 +36,6 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 - *2022.06 to 2022.08*, Summer Exchange, Technical University of Denmark
 - *2018 to 2021*, Chengdu Shude High School (Foreign Language Campus)
 
-# 💻 Positions
-- *2026.05 to now*, Designate Chairperson of Student Committee, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
-- *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
-
-# 🔥 News
-- *2026.05*: &nbsp;🎉🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
-- *2026.03*: &nbsp;🎤🎤 I gave my first-ever academic seminar at [HKU-ITS](https://institute-of-transport-studies.hku.hk/). Thanks all colleagues for participation and the invitation from Mr. Qingyang Li.
-- *2025.09*: &nbsp;🎉🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAS Lab!
-- *2025.05*: &nbsp;🎉🎉 I have successfully satisfied the requirements for the degree of BEng in Electronic and Information Engineering. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Congratulations to the Class of 2025, BEng in EIE cohort!
 
 # 📝 Publications
 
