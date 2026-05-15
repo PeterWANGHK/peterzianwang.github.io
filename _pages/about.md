@@ -50,7 +50,7 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 
 Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *SAIL: Socially Aware Robot Navigation Guided by Incremental Conflict Prediction and LLM-Driven Bilevel MPC* (in submission)
 
-Mingjian Yu, **Zian Wang**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, under review)
+Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, under review)
 
 Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (under review)
 
