@@ -19,9 +19,12 @@ Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in
 
 My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
-# 📖 Educations
+# 📖 Educational Experiences
 - *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/)
 - *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Thesis Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/)
+- *2023.06 to 2023.07*, Summer Exchange, Nanyang Technological University Singapore
+- *2022.06 to 2022.08*, Summer Exchange, Technical University of Denmark
+- *2018 to 2021*, Chengdu Shude High School (Foreign Language Campus)
 
 # 💻 Positions
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
