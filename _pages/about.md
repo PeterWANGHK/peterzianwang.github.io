@@ -41,25 +41,25 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 
 (* indicates the corresponding author)
 
-**Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic*](https://ssrn.com/abstract=6500569) (under review)
+**Zian Wang**, Yiming Shu, Zejian Deng, Guohun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*"DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic"*](https://ssrn.com/abstract=6500569) (under review)
 
-**Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun* *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving* (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
+**Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun* *"DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving"* (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
 
-**Zian Wang**, Mingjian Yu, Yiming Shu, Xiangjie Kong, Yao Cheng, Chen Sun* [*Drift-Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning for Critical Infrastructure Safety*](https://doi.org/10.2139/ssrn.6661502) (under review)
+**Zian Wang**, Mingjian Yu, Yiming Shu, Xiangjie Kong, Yao Cheng, Chen Sun* [*"Drift-Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning for Critical Infrastructure Safety"*](https://doi.org/10.2139/ssrn.6661502) (under review)
 
-**Zian Wang**, Wenjie Huang, Chen Sun* *Learning Optimal Policies for Socially-Aware Autonomous Driving via Spatiotemporal Field Propagation* (in submission)
+**Zian Wang**, Wenjie Huang, Chen Sun* *"Learning Optimal Policies for Socially-Aware Autonomous Driving via Spatiotemporal Field Propagation"* (in submission)
 
-Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *SAIL: Socially Aware Robot Navigation Guided by Incremental Conflict Prediction and LLM-Driven Bilevel MPC* (in submission)
+Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *"SAIL: Socially Aware Robot Navigation Guided by Incremental Conflict Prediction and LLM-Driven Bilevel MPC"* (in submission)
 
-Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT* (first co-author, under review)
+Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, under review)
 
-Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion* (under review)
+Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *"Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion"* (under review)
 
-Yiming Shu, Jiahui Xu, Jiwei Tang, Ruiyang Gao, **Zian Wang**, Chen Sun* [*LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving*](https://arxiv.org/pdf/2512.05686) (major revision)
+Yiming Shu, Jiahui Xu, Jiwei Tang, Ruiyang Gao, **Zian Wang**, Chen Sun* [*"LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving"*](https://arxiv.org/pdf/2512.05686) (major revision)
 
-Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update* (under review)
+Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *"Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update"* (under review)
 
-Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance* (under review)
+Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *"GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance"* (under review)
 
 
 # 💬 Invited Talks
