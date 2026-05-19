@@ -30,10 +30,10 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 📖 Educational Experiences
-- *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/)
+- *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/); co-supervisor: [Prof. Ning Xi](https://www.dase.hku.hk/people/n-xi) (head of department)
 - *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Thesis Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/)
-- *2023.06 to 2023.07*, Summer Exchange, Nanyang Technological University Singapore
-- *2022.06 to 2022.08*, Summer Exchange, Technical University of Denmark
+- *2023.06 to 2023.07*, Summer Exchange, Nanyang Technological University Singapore (NTU)
+- *2022.06 to 2022.08*, Summer Exchange, Technical University of Denmark (DTU)
 - *2018 to 2021*, Chengdu Shude High School (Foreign Language Campus)
 
 
@@ -77,10 +77,10 @@ Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-P
 - Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship, Hong Kong Polytechnic University
 
 # 📖 Teaching and Mentorship
-- *2025.09 to 2025.12*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (2025 Fall MSc) [Course Repo available](https://github.com/SAS-HKU/DASE7505_student.git)
-- *2026.01 to 2026.05*, Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (2026 Spring BEng) [Course Repo available](https://github.com/SAS-HKU/DASE4136_student.git)
+- *2025.09 to now*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (MSc(Eng) in RIS programme) [Course Repo available](https://github.com/SAS-HKU/DASE7505_student.git)
+- *2026.01 to now*, Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (BEng in DASE programme) [Course Repo available](https://github.com/SAS-HKU/DASE4136_student.git)
 - *2025.10 to 2026.05*, Postgraduate Mentor at Chi Sun College, HKU Jockey Club Student Village III
-- *2026.04*, mentorship for HKU Engineering Elite Programme Student for Lab Shadowing
+- *2026.04*, Lab Shadowing Mentorship for HKU Engineering Elite Programme Student
 
 # 💬 Presentations
 - *2024.04*, *EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions* [HKAES Pitch Competition on Grand Challenge
