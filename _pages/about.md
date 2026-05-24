@@ -53,7 +53,7 @@ Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced
 
 Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *"SAIL: Socially Aware Robot Navigation Guided by Incremental Conflict Prediction and LLM-Driven Bilevel MPC"* (in submission)
 
-Waikit Xiu, Qiang Lu, **Zian Wang**, Zhiwei Chen, Xiying Li *"Beyond Scene Priors: Fine-Grained Traffic Scene Reasoning with Benchmarking and Query-Guided Small-Object Focus"* (in submission)
+Waikit Xiu, Qiang Lu, **Zian Wang**, Zhiwei Chen, Xiying Li *"Beyond Scene Priors: Fine-Grained Traffic Scene Reasoning with Benchmarking and Query-Guided Small-Object Focus"* (under review)
 
 Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *"Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion"* (under review)
 
