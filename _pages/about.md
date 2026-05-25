@@ -63,6 +63,8 @@ Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao 
 
 Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *"GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance"* (under review)
 
+Yiming Shu, Pei Liu, Jiahui Xu, Yong Wang, Tiange Zhang, Jiwei Tang, **Zian Wang**, Ruiyang Gao, Jun Ma, Chen Sun *"TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces"* (under review)
+
 
 # 💬 Invited Talks
 - *2026.03.11*: [Toward Unified Risk Field Representations for Interactive Autonomous Driving: A Comparative Study and Future Directions](https://institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm). Student seminar hosted by Institute of Transport Studies, The University of Hong Kong
