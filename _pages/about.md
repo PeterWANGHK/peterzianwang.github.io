@@ -65,7 +65,7 @@ Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-P
 
 Yiming Shu, Yaofeng Su, Jiacheng Chen, Jiahui Xu, Wei Zhang, **Zian Wang**, Pei Liu, Chen Sun *"MAO: Treating Memory as Operators for Long-Horizon Language Agents"* (under review)
 
-Yiming Shu, Pei Liu, Jiahui Xu, Yong Wang, Tiange Zhang, Jiwei Tang, **Zian Wang**, Ruiyang Gao, Jun Ma, Chen Sun *"TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces"* (under review)
+Yiming Shu, Pei Liu, Jiahui Xu, Yong Wang, Tiange Zhang, Jiwei Tang, **Zian Wang**, Ruiyang Gao, Jun Ma, Chen Sun [*"TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces"*](https://arxiv.org/abs/2602.09712) (under review)
 
 
 # 💬 Invited Talks
