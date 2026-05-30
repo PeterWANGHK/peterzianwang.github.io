@@ -20,10 +20,11 @@ Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in
 My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
-- *2026.03*: &nbsp;🎤🎤 I gave my first-ever academic seminar at [HKU-ITS](https://institute-of-transport-studies.hku.hk/). Thanks all colleagues for participation and the invitation from Mr. Qingyang Li.
-- *2025.09*: &nbsp;🎉🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAS Lab!
-- *2025.05*: &nbsp;🎉🎉 I have successfully satisfied the requirements for the degree of BEng in Electronic and Information Engineering. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Congratulations to the Class of 2025, BEng in EIE cohort!
+- *2026.05*: &nbsp;📆 I will serve as the chairperson of student committee of [HKU-ITS](https://institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
+- *2026.05*: &nbsp;🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
+- *2026.03*: &nbsp;🎤 I gave my first-ever academic seminar at [HKU-ITS](https://institute-of-transport-studies.hku.hk/). Thanks all colleagues for participation and the invitation from Mr. Qingyang Li.
+- *2025.09*: &nbsp;🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAS Lab!
+- *2025.05*: &nbsp;🎉 I have successfully satisfied the requirements for the degree of BEng in Electronic and Information Engineering. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Congratulations to the Class of 2025, BEng in EIE cohort!
 
 # 💻 Positions
 - *2026.05 to now*, Designate Chairperson of Student Committee and Student Fellow, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
