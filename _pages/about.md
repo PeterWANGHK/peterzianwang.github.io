@@ -26,7 +26,7 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 - *2025.05*: &nbsp;🎉🎉 I have successfully satisfied the requirements for the degree of BEng in Electronic and Information Engineering. My thesis topic is: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". [Demonstration Video](https://youtu.be/Ie8hh0jGMl4?si=XHm50lMw56GifTHv) could be watched on YouTube. Congratulations to the Class of 2025, BEng in EIE cohort!
 
 # 💻 Positions
-- *2026.05 to now*, Designate Chairperson of Student Committee, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
+- *2026.05 to now*, Designate Chairperson of Student Committee and Student Fellow, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 📖 Educational Experiences
