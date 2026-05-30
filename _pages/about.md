@@ -47,7 +47,7 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 
 **Zian Wang**, Mingjian Yu, Yiming Shu, Xiangjie Kong, Yao Cheng, Chen Sun* [*"Drift-Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning for Critical Infrastructure Safety"*](https://doi.org/10.2139/ssrn.6661502) (under review)
 
-**Zian Wang**, Wenjie Huang, Chen Sun* *"Learning Optimal Policies for Socially-Aware Autonomous Driving via Spatiotemporal Field Propagation"* (in submission)
+**Zian Wang**, Wenjie Huang, Zejian Deng, Jiahui Xu, Yiming Shu, Yong Wong, Shen Li, Dongpu Cao, Chen Sun* [*"SAFE-AD: Socially-aware field-enhanced reinforcement learning for autonomous driving in interactive traffic"*](https://github.com/SAS-HKU/SAFE-AD.git) (under review)
 
 Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, under review)
 
