@@ -66,6 +66,8 @@ Yiming Shu, Jiahui Xu, Jiwei Tang, Ruiyang Gao, **Zian Wang**, Chen Sun* [*"LA-R
 
 Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *"Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update"* (under review)
 
+Shengyi Li, Yiming Shu, Wei Zhang, Jiahui Xu, **Zian Wang**, Chen Sun* *"EAC-Drive: Efficient Action-Centric Vision-Language-Action Planning for End-to-End Autonomous Driving"* (in submission)
+
 Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *"GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance"* (under review)
 
 Yiming Shu, Yaofeng Su, Jiacheng Chen, Jiahui Xu, Wei Zhang, **Zian Wang**, Pei Liu, Chen Sun *"MAO: Treating Memory as Operators for Long-Horizon Language Agents"* (under review)
