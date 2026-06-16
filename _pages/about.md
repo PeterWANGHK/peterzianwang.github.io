@@ -64,7 +64,7 @@ Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *"Risk-Aware Pres
 
 Yiming Shu, Jiahui Xu, Jiwei Tang, Ruiyang Gao, **Zian Wang**, Chen Sun* [*"LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving"*](https://arxiv.org/pdf/2512.05686) (major revision)
 
-Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *"Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update"* (under review)
+Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *"Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update"* (major revision)
 
 Shengyi Li, Yiming Shu, Wei Zhang, Jiahui Xu, **Zian Wang**, Chen Sun* *"EAC-Drive: Efficient Action-Centric Vision-Language-Action Planning for End-to-End Autonomous Driving"* (in submission)
 
