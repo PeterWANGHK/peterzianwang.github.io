@@ -41,7 +41,7 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 # 📝 Publications
 
 (* indicates the corresponding author)
-
+## First-Authored and Co-First-Authored:
 **Zian Wang**, Yiming Shu, Zejian Deng, Guoshun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*"DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic"*](https://ssrn.com/abstract=6500569) (under review)
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun*  [*"DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving"*](https://arxiv.org/abs/2605.27964) (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
@@ -54,6 +54,7 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 
 **Zian Wang**, Zejian Deng, Waitkit Xiu, Yiming Shu, Jiahui Xu, Chen Sun* [*"Spatiotemporal Field Propagation in Autonomous Driving: A Unified Field-Theoretic Framework for Multi-Agent Planning and Prediction under Uncertainty"*](https://github.com/PeterWANGHK/Benchmark-RiskField.git) (in submission)
 
+## Co-Authored and Contributed with other colleagues: 
 Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, under review)
 
 Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *"SAIL: Socially Aware Robot Navigation via LLM-Driven MPC Parameter Adaptation"* (under review) 
