@@ -19,7 +19,7 @@ Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in
 
 My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
-💬 My research philisophy is: pursuing 100% open-source research outputs with credibility and transperancy; looking for real world deployment with sim-to-real.
+💬 My research philisophy is: pursuing 100% open-source research outputs with credibility and transparency; looking for real world deployment with sim-to-real.
 
 # 🔥 News
 - *2026.05*: &nbsp;📆 I will serve as the chairperson of student committee of [HKU-ITS](https://institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
