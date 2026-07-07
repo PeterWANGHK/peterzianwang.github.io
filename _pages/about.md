@@ -44,7 +44,7 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 
 (* indicates the corresponding author)
 ### First-Authored and Co-First-Authored:
-**Zian Wang**, Yiming Shu, Zejian Deng, Guoshun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*"DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic"*](https://ssrn.com/abstract=6500569) (under review)
+**Zian Wang**, Yiming Shu, Zejian Deng, Guoshun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*"DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic"*](https://ssrn.com/abstract=6500569) (major revision)
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun*  [*"DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving"*](https://arxiv.org/abs/2605.27964) (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
 
@@ -52,9 +52,7 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 
 **Zian Wang**, Wenjie Huang, Zejian Deng, Jiahui Xu, Yiming Shu, Yong Wong, Shen Li, Dongpu Cao, Chen Sun* [*"SAFE-AD: Socially-aware field-enhanced reinforcement learning for autonomous driving in interactive traffic"*](https://github.com/SAS-HKU/SAFE-AD.git) (under review)
 
-**Zian Wang**, Waikit Xiu, Guoshun Cai, Yiming Shu, Jiwei Tang, Shengyi Li, Wenbin Mai, Chen Sun* [*"Risk-Biased Safe Vector Fields with Memory-Buffered Perception for Occlusion-Aware Navigation"*](https://github.com/PeterWANGHK/RiskFlow-VF.git) (in submission)
-
-**Zian Wang**, Zejian Deng, Waitkit Xiu, Yiming Shu, Jiahui Xu, Chen Sun* [*"Spatiotemporal Field Propagation in Autonomous Driving: A Unified Field-Theoretic Framework for Multi-Agent Planning and Prediction under Uncertainty"*](https://github.com/PeterWANGHK/Benchmark-RiskField.git) (in submission)
+**Zian Wang**, Waikit Xiu, Guoshun Cai, Yiming Shu, Jiwei Tang, Shengyi Li, Wenbin Mai, Chen Sun* [*"Class-Aware Social Navigation via Learned Interaction Fields and Control Barrier Filtering"*](https://github.com/PeterWANGHK/PFG-SAN.git) (in submission)
 
 Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, under review)
 
