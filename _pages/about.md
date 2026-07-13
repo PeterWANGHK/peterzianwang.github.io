@@ -52,7 +52,7 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 
 **Zian Wang**, Wenjie Huang, Zejian Deng, Jiahui Xu, Yiming Shu, Yong Wong, Shen Li, Dongpu Cao, Chen Sun* [*"SAFE-AD: Socially-aware field-enhanced reinforcement learning for autonomous driving in interactive traffic"*](https://github.com/SAS-HKU/SAFE-AD.git) (under review)
 
-**Zian Wang**, Waikit Xiu, Guoshun Cai, Yiming Shu, Jiwei Tang, Shengyi Li, Wenbin Mai, Chen Sun* [*"Class-Aware Social Navigation via Learned Interaction Fields and Control Barrier Filtering"*](https://github.com/PeterWANGHK/PFG-SAN.git) (in submission)
+**Zian Wang**, Waikit Xiu, Yiming Shu, Jiahui Xu, Shengyi Li, Qingyang Li, Chen Sun* [*"Class-Aware Social Navigation via Learned Interaction Fields and Control Barrier Filtering"*](https://github.com/PeterWANGHK/PFG-SAN.git) (in submission)
 
 Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, under review)
 
