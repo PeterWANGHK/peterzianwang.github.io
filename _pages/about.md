@@ -15,9 +15,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there! I am Zian WANG Peter. I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, with thesis supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/). I am currently pursuing an M.Phil. degree in [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://chensunmac.github.io/). Our research group directed by Prof. Sun is called [Social-AI Systems Lab (HKU-SAS)](https://github.com/SAS-HKU). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. 
+Hello there! I am Zian WANG Peter. I am currently pursuing an M.Phil. degree with [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN). Our research group directed by Prof. Sun is called [HKU-SAS Lab](https://github.com/SAS-HKU). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
-My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
+Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, with thesis titled ["Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging"](https://youtu.be/Ie8hh0jGMl4?si=hccqarMKl35nDsyU), supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/). 
 
 💬 My research philisophy is: pursuing 100% open-source research outputs with reproducibility, credibility, and transparency; looking for real world deployment with sim-to-real.
 
@@ -32,8 +32,8 @@ My research now focuses on integration of data-driven methods with risk-aware fr
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 📖 Educational Experiences
-- *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering, The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/); co-supervisor: [Prof. Ning Xi](https://www.dase.hku.hk/people/n-xi) (head of department)
-- *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University. thesis topic: "Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging". Thesis Supervisor: [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/)
+- *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering (DASE), The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/); co-supervisor: [Prof. Ning Xi](https://www.dase.hku.hk/people/n-xi) (head of department)
+- *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University (HK PolyU)
 - *2023.06 to 2023.07*, Summer Exchange, Nanyang Technological University Singapore (NTU)
 - *2022.06 to 2022.08*, Summer Exchange, Technical University of Denmark (DTU)
 - *2018 to 2021*, Chengdu Shude High School (Foreign Language Campus)
