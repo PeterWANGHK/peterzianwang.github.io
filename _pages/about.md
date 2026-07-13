@@ -32,7 +32,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 📖 Educational Experiences
-- *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering (DASE), The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/); co-supervisor: [Prof. Ning Xi](https://www.dase.hku.hk/people/n-xi) (head of department)
+- *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering (DASE), The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN)
 - *2021.08 to 2025.05*, Bachelor of Engineering in Electronic and Information Engineering, The Hong Kong Polytechnic University (HK PolyU)
 - *2023.06 to 2023.07*, Summer Exchange, Nanyang Technological University Singapore (NTU)
 - *2022.06 to 2022.08*, Summer Exchange, Technical University of Denmark (DTU)
