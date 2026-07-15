@@ -57,7 +57,6 @@ Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced
 
 
 ### Co-Authored and Contributed with other colleagues: 
-Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *"SAIL: Socially Aware Robot Navigation via LLM-Driven MPC Parameter Adaptation"* (under review) 
 
 Waikit Xiu, Qiang Lu, **Zian Wang**, Zhiwei Chen,  Chen Sun, Xiying Li [*"Beyond Scene Priors: Fine-Grained Traffic Scene Reasoning with Benchmarking and Query-Guided Small-Object Focus"*](https://arxiv.org/abs/2607.04149) (under review)
 
