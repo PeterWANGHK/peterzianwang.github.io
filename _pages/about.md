@@ -61,8 +61,6 @@ Qianxiao Fei, **Zian Wang**, Jiahui Xu, Yiming Shu, Chen Sun* *"SAIL: Socially A
 
 Waikit Xiu, Qiang Lu, **Zian Wang**, Zhiwei Chen,  Chen Sun, Xiying Li [*"Beyond Scene Priors: Fine-Grained Traffic Scene Reasoning with Benchmarking and Query-Guided Small-Object Focus"*](https://arxiv.org/abs/2607.04149) (under review)
 
-Jiwei Tang, Ruihang Ji, Jingzehua Xu, **Zian Wang**, Chen Sun* *"Risk-Aware Prescribed Performance Control With Bidirectional Boundary Expansion"* (under review)
-
 Yiming Shu, Jiahui Xu, Jiwei Tang, Ruiyang Gao, **Zian Wang**, Chen Sun* [*"LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving"*](https://arxiv.org/pdf/2512.05686) (major revision)
 
 Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao Huang *"Nash Game MPC With Inexact Equilibrium Computation and Intermittent Information Update"* (major revision)
