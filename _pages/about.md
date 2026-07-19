@@ -53,7 +53,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 **Zian Wang**, Waikit Xiu, Yiming Shu, Jiahui Xu, Shengyi Li, Qingyang Li, Chen Sun* [*"Class-Aware Social Navigation via Learned Interaction Fields and Control Barrier Filtering"*](https://github.com/PeterWANGHK/PFG-SAN.git) (in submission)
 
-Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, under review)
+Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, major revision)
 
 
 ### Co-Authored and Contributed with other colleagues: 
