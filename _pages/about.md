@@ -29,7 +29,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 # 💻 Positions
 - *2026.07 to now*, Chairperson of Student Committee and Student Fellow, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
-- *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
+- *2025.11 to now*, Part-time Research and Teaching Assistant, affiliated with [HKU Department of Data and Systems Engineering](https://www.dase.hku.hk/)
 
 # 📖 Educational Experiences
 - *2025.09 to now*, Master of Philosophy (MPhil), Department of Data and Systems Engineering (DASE), The University of Hong Kong. Supervisor: [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN)
