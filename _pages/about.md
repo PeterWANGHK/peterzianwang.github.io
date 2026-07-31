@@ -28,7 +28,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 - *2025.09*: &nbsp;🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAS Lab!
 
 # 💻 Positions
-- *2026.05 to now*, Designate Chairperson of Student Committee and Student Fellow, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
+- *2026.07 to now*, Chairperson of Student Committee and Student Fellow, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
 - *2025.11 to now*, Part-time Research Assistant, affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong
 
 # 📖 Educational Experiences
