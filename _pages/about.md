@@ -94,7 +94,8 @@ Yiming Shu, Pei Liu, Jiahui Xu, Yong Wang, Tiange Zhang, Jiwei Tang, **Zian Wang
 - *2026.04*, Lab Shadowing Mentorship for HKU Engineering Elite Programme Student
 
 # 💬 Presentations
-- *2024.04*, *EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions* [HKAES Pitch Competition on Grand Challenge
+-  *2024.04*, *EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions* [HKAES Pitch Competition on Grand Challenge
 Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
 - *2024.08*, *Design and Implementation of an Intelligent Trash Collection Robot with Speech Recognition, Dynamic Control, and YOLO Object Detection* [PolyU Research Student Conference 2024](https://events.polyu.edu.hk/prsc2024/listofawardees)
+- *2026.08*, *Hierarchical Risk-Aware Planning and Learning for Autonomous Systems in Heterogeneous Environments*, seminar talk at Beijing Institute of Technology (Zhuhai).
 - *2026.09* (scheduled), *DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving*, oral paper presentation at [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/), Naples, Italy.
