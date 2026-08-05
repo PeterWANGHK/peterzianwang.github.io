@@ -17,6 +17,8 @@ redirect_from:
 
 Hello there! I am Zian WANG Peter. I am currently pursuing an M.Phil. degree with [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN). Our research group directed by Prof. Sun is called [HKU-SAS Lab](https://github.com/SAS-HKU). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
+![research_timeline](assets/research_timeline.jpg)
+
 Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, with thesis titled ["Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging"](https://youtu.be/Ie8hh0jGMl4?si=hccqarMKl35nDsyU), supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/). 
 
 💬 My research philisophy is: pursuing 100% open-source research outputs with reproducibility, credibility, and transparency; looking for real world deployment with sim-to-real.
