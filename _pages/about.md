@@ -21,7 +21,8 @@ Hello there! I am Zian WANG Peter. I am currently pursuing an M.Phil. degree wit
 
 Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025, with thesis titled ["Advancing Cooperative Autonomous Navigation in Dynamic Environments with DRL-Optimized SLAM Hyperparameters for Enhanced Map Merging"](https://youtu.be/Ie8hh0jGMl4?si=hccqarMKl35nDsyU), supervised by [Prof. Ivan Ho Wang-Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/). 
 
-💬 My research philisophy is: pursuing 100% open-source research outputs with reproducibility, credibility, and transparency; looking for real world deployment with sim-to-real.
+💬 My research philosophy is: pursuing 100% open-source research outputs with reproducibility, credibility, and transparency; looking for real world deployment with sim-to-real.
+💻 My senior colleagues who work closely with me: [Dr. Zejian Deng](https://scholar.google.com/citations?user=zA_fv-QAAAAJ&hl=zh-CN); [Ms. Yiming Shu](https://github.com/YimingShu-teay); [Ms. Jiahui Xu](https://scholar.google.com/citations?user=MHa9ts4AAAAJ&hl=zh-CN).
 
 # 🔥 News
 - *2026.05*: &nbsp;📆 I will serve as the chairperson of student committee of [HKU-ITS](https://institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
