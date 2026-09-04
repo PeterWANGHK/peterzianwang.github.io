@@ -26,6 +26,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 💻 My senior colleagues who work closely with me: [Dr. Zejian Deng](https://scholar.google.com/citations?user=zA_fv-QAAAAJ&hl=zh-CN); [Ms. Yiming Shu](https://github.com/YimingShu-teay); [Ms. Jiahui Xu](https://scholar.google.com/citations?user=MHa9ts4AAAAJ&hl=zh-CN).
 
 # 🔥 News
+- *2026.09*: &nbsp;🎤 [HKU-SAS Lab](https://github.com/SAS-HKU) is organizing the [Workshop on Socially Compliant and Strategic Autonomous Driving](https://sas-hku.github.io/ITSC2026/) at [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/) on 15 Sep. Welcome to join us for series of discussions!
 - *2026.05*: &nbsp;📆 I will serve as the chairperson of student committee of [HKU-ITS](https://institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
 - *2026.05*: &nbsp;🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
 - *2026.03*: &nbsp;🎤 I gave my first-ever academic seminar at [HKU-ITS](https://institute-of-transport-studies.hku.hk/). Thanks all colleagues for participation and the invitation from Mr. Qingyang Li.
@@ -47,15 +48,13 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 (* indicates the corresponding author)
 ### First-Authored and Co-First-Authored:
-**Zian Wang**, Yiming Shu, Zejian Deng, Guoshun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*"DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic"*](https://ssrn.com/abstract=6500569) (major revision)
+**Zian Wang**, Yiming Shu, Zejian Deng, Guoshun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*"DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic"*](https://ssrn.com/abstract=6500569) (under 2nd round of review)
 
-**Zian Wang**, Wenjie Huang, Zejian Deng, Jiahui Xu, Yiming Shu, Yong Wong, Shen Li, Dongpu Cao, Chen Sun* [*"SAFE-AD: Socially-aware field-enhanced reinforcement learning for autonomous driving in interactive traffic"*](https://github.com/SAS-HKU/SAFE-AD.git) (major revision)
+**Zian Wang**, Wenjie Huang, Zejian Deng, Jiahui Xu, Yiming Shu, Yong Wong, Shen Li, Dongpu Cao, Chen Sun* [*"SAFE-AD: Socially-aware field-enhanced reinforcement learning for autonomous driving in interactive traffic"*](https://github.com/SAS-HKU/SAFE-AD.git) (under 2nd round of review)
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun*  [*"DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving"*](https://arxiv.org/abs/2605.27964) (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
 
 **Zian Wang**, Mingjian Yu, Yiming Shu, Xiangjie Kong, Yao Cheng, Chen Sun* [*"Drift-Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning for Critical Infrastructure Safety"*](https://doi.org/10.2139/ssrn.6661502) (under review)
-
-**Zian Wang**, Waikit Xiu, Yiming Shu, Jiahui Xu, Shengyi Li, Qingyang Li, Chen Sun* [*"Class-Aware Social Navigation via Learned Interaction Fields and Control Barrier Filtering"*](https://github.com/PeterWANGHK/PFG-SAN.git) (in submission)
 
 Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, major revision)
 
@@ -70,7 +69,7 @@ Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao 
 
 Shengyi Li, Yiming Shu, Wei Zhang, Jiahui Xu, **Zian Wang**, Chen Sun* *"EAC-Drive: Efficient Action-Centric Vision-Language-Action Planning for End-to-End Autonomous Driving"* (in submission)
 
-Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *"GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance"* (under review)
+Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *"GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance"* (major revision)
 
 Yiming Shu, Yaofeng Su, Jiacheng Chen, Jiahui Xu, Wei Zhang, **Zian Wang**, Pei Liu, Chen Sun *"MAO: Treating Memory as Operators for Long-Horizon Language Agents"* (under review)
 
