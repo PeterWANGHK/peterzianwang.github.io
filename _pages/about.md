@@ -54,6 +54,8 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun*  [*"DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving"*](https://arxiv.org/abs/2605.27964) (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
 
+Tong Zhang, **Zian Wang**, Zhining Zhang, Yiming Shu, Chen Sun* [*"MAVCO: Joint Mobility--Active Vision Co-Optimization for Low-Profile Hazard Navigation"*](https://github.com/SAS-HKU/MAVCO.git) (in submission) 
+
 Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, major revision)
 
 
