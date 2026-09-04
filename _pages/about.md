@@ -54,8 +54,6 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun*  [*"DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving"*](https://arxiv.org/abs/2605.27964) (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
 
-**Zian Wang**, Mingjian Yu, Yiming Shu, Xiangjie Kong, Yao Cheng, Chen Sun* [*"Drift-Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning for Critical Infrastructure Safety"*](https://doi.org/10.2139/ssrn.6661502) (under review)
-
 Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, major revision)
 
 
@@ -70,10 +68,6 @@ Guoshun Cai, Chen Sun, Zejian Deng, Jiahui Xu, **Zian Wang**, Guodong Yin, Chao 
 Shengyi Li, Yiming Shu, Wei Zhang, Jiahui Xu, **Zian Wang**, Chen Sun* *"EAC-Drive: Efficient Action-Centric Vision-Language-Action Planning for End-to-End Autonomous Driving"* (in submission)
 
 Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-Pui Chau, Chen Sun* *"GameDiffusion: A Diffusion Models with Adaptive Game-Inspired Guidance"* (major revision)
-
-Yiming Shu, Yaofeng Su, Jiacheng Chen, Jiahui Xu, Wei Zhang, **Zian Wang**, Pei Liu, Chen Sun *"MAO: Treating Memory as Operators for Long-Horizon Language Agents"* (under review)
-
-Yiming Shu, Pei Liu, Jiahui Xu, Yong Wang, Tiange Zhang, Jiwei Tang, **Zian Wang**, Ruiyang Gao, Jun Ma, Chen Sun [*"TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces"*](https://arxiv.org/abs/2602.09712) (under review)
 
 
 # 💬 Invited Talks
