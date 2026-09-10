@@ -46,7 +46,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 # 📝 Publications
 
-(* indicates the corresponding author)
+(* indicates the corresponding author; † indicates the co-first author)
 ### First-Authored and Co-First-Authored:
 **Zian Wang**, Yiming Shu, Zejian Deng, Guoshun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*"DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic"*](https://ssrn.com/abstract=6500569) (under 2nd round of review)
 
