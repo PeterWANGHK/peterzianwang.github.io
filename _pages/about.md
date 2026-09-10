@@ -54,13 +54,11 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun*  [*"DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving"*](https://arxiv.org/abs/2605.27964) (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
 
+Tong Zhang, **Zian Wang†**, Zhining Zhang, Zhuoren Li, Guizhe Jin, Yiming Shu, Chen Sun* [*"MAVCO: Joint Mobility--Active Vision Co-Optimization for Low-Profile Hazard Navigation"*](https://github.com/HelloMAVCO/MAVCO.git) (in submission) 
+
 Mingjian Yu†, **Zian Wang†**, Xiangjie Kong, Chen Sun* *"Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT"* (first co-author, major revision)
 
-
 ### Co-Authored and Contributed with other colleagues: 
-
-Tong Zhang, **Zian Wang**, Zhining Zhang, Yiming Shu, Chen Sun* [*"MAVCO: Joint Mobility--Active Vision Co-Optimization for Low-Profile Hazard Navigation"*](https://github.com/SAS-HKU/MAVCO.git) (in submission) 
-
 Waikit Xiu, Qiang Lu, **Zian Wang**, Zhiwei Chen,  Chen Sun, Xiying Li [*"Beyond Scene Priors: Fine-Grained Traffic Scene Reasoning with Benchmarking and Query-Guided Small-Object Focus"*](https://arxiv.org/abs/2607.04149) (under review)
 
 Yiming Shu, Jiahui Xu, Jiwei Tang, Ruiyang Gao, **Zian Wang**, Chen Sun* [*"LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving"*](https://arxiv.org/pdf/2512.05686) (major revision)
