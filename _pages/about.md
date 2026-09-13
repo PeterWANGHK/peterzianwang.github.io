@@ -15,7 +15,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there! I am Zian WANG Peter. I am currently pursuing an M.Phil. degree with [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN). Our research group directed by Prof. Sun is called [HKU-SAS Lab](https://github.com/SAS-HKU). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
+Hello there! I am Zian WANG Peter. I am currently pursuing an M.Phil. degree with [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN). Our research group directed by Prof. Sun is called [HKU-SAIL Lab](https://hku-sas.hku.hk/). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
 ![research_timeline](assets/research_timeline.jpg)
 
@@ -30,8 +30,8 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 - *2026.05*: &nbsp;📆 I will serve as the Deputy chairperson of student committee of [HKU-ITS](https://institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
 - *2026.05*: &nbsp;🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
 - *2026.03*: &nbsp;🎤 I gave my first-ever academic seminar at [HKU-ITS](https://institute-of-transport-studies.hku.hk/). Thanks all colleagues for participation and the invitation from Mr. Qingyang Li.
-- *2025.09*: &nbsp;🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAS Lab!
-
+- *2025.09*: &nbsp;🎉 I officially started my journey affiliated with [Department of Data and Systems Engineering](https://www.dase.hku.hk/), The University of Hong Kong, as a Master of Philosophy student. Honored to be onboard HKU-SAIL Lab
+- 
 # 💻 Positions
 - *2026.07 to now*, Deputy Chairperson of Student Committee and Student Fellow, [HKU Institute of Transport Studies](https://institute-of-transport-studies.hku.hk/)
 - *2025.11 to now*, Part-time Research and Teaching Assistant, affiliated with [HKU Department of Data and Systems Engineering](https://www.dase.hku.hk/)
