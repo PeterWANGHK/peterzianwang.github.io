@@ -15,7 +15,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there! I am Zian WANG Peter. I am currently pursuing an M.Phil. degree with [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN). Our research group directed by Prof. Sun is called [HKU-SAIL Lab](https://hku-sas.hku.hk/). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
+Hello there! I am Zian WANG Peter. I am currently pursuing an M.Phil. degree with [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN). Our research group directed by Prof. Sun is called [HKU-SAIL Lab](https://hku-.hku.hk/). It is a multidisciplinary research team that combines expertise in artificial intelligence, robotics, computer vision, and human-machine interaction to create breakthrough technologies that advance the field of autonomous systems. My research now focuses on integration of data-driven methods with risk-aware frameworks for improved prediction and safe planning in autonomous driving, and interdisciplinary topics within intelligent transportation systems.
 
 ![research_timeline](assets/research_timeline.jpg)
 
@@ -26,7 +26,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 💻 My senior colleagues who work closely with me: [Dr. Zejian Deng](https://scholar.google.com/citations?user=zA_fv-QAAAAJ&hl=zh-CN); [Ms. Yiming Shu](https://github.com/YimingShu-teay); [Ms. Jiahui Xu](https://scholar.google.com/citations?user=MHa9ts4AAAAJ&hl=zh-CN).
 
 # 🔥 News
-- *2026.09*: &nbsp;🎤 [HKU-SAS Lab](https://github.com/SAS-HKU) is organizing the [Workshop on Socially Compliant and Strategic Autonomous Driving](https://sas-hku.github.io/ITSC2026/) at [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/) on 15 Sep. Welcome to join us for series of discussions!
+- *2026.09*: &nbsp;🎤 [HKU-SAIL Lab](https://github.com/SAS-HKU) is organizing the [Workshop on Socially Compliant and Strategic Autonomous Driving](https://sas-hku.github.io/ITSC2026/) at [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/) on 15 Sep. Welcome to join us for series of discussions!
 - *2026.05*: &nbsp;📆 I will serve as the Deputy chairperson of student committee of [HKU-ITS](https://institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
 - *2026.05*: &nbsp;🎉 My first manuscript on autonomous driving has been accepted by [IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026](https://ieee-itsc.org/2026/)! Thanks all the guidance from the senior colleagues and my supervisor. See you in Naples, Italy 🇮🇹!
 - *2026.03*: &nbsp;🎤 I gave my first-ever academic seminar at [HKU-ITS](https://institute-of-transport-studies.hku.hk/). Thanks all colleagues for participation and the invitation from Mr. Qingyang Li.
@@ -50,7 +50,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 ### First-Authored and Co-First-Authored:
 **Zian Wang**, Yiming Shu, Zejian Deng, Guoshun Cai, Jiahui Xu, Jiwei Tang, Dongpu Cao, Chen Sun* [*"DREAM: Defensive Risk-Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic"*](https://ssrn.com/abstract=6500569) (under 2nd round of review)
 
-**Zian Wang**, Wenjie Huang, Zejian Deng, Jiahui Xu, Yiming Shu, Yong Wong, Shen Li, Dongpu Cao, Chen Sun* [*"SAFE-AD: Socially-aware field-enhanced reinforcement learning for autonomous driving in interactive traffic"*](https://github.com/SAS-HKU/SAFE-AD.git) (under 2nd round of review)
+**Zian Wang**, Wenjie Huang, Zejian Deng, Jiahui Xu, Yiming Shu, Yong Wong, Shen Li, Dongpu Cao, Chen Sun* [*"SAFE-AD: Socially-aware field-enhanced reinforcement learning for autonomous driving in interactive traffic"*](https://github.com/-HKU/SAFE-AD.git) (under 2nd round of review)
 
 **Zian Wang**, Yiming Shu, Zejian Deng, Chen Sun*  [*"DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving"*](https://arxiv.org/abs/2605.27964) (**accepted by [IEEE ITSC 2026](https://ieee-itsc.org/2026/)**)
 
@@ -85,8 +85,8 @@ Jiahui Xu, Guoshun Cai, Jiaru Zhong, Yong Wang, Yiming Shu, **Zian Wang**, Lap-P
 - Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship, Hong Kong Polytechnic University
 
 # 📖 Teaching and Mentorship
-- *2025.09 to now*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (MSc(Eng) in RIS programme) [Course Repo available](https://github.com/SAS-HKU/DASE7505_student.git)
-- *2026.01 to now*, Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (BEng in DASE programme) [Course Repo available](https://github.com/SAS-HKU/DASE4136_student.git)
+- *2025.09 to now*, Teaching Assistant for DASE7505 Intelligent Unmanned Systems (MSc(Eng) in RIS programme) [Course Repo available](https://github.com/-HKU/DASE7505_student.git)
+- *2026.01 to now*, Teaching Assistant for DASE4136 Intelligent Transportation and Autonomous Driving (BEng in DASE programme) [Course Repo available](https://github.com/-HKU/DASE4136_student.git)
 - *2025.10 to 2026.05*, Postgraduate Mentor at Chi Sun College, HKU Jockey Club Student Village III
 - *2026.04*, Lab Shadowing Mentorship for HKU Engineering Elite Programme Student
 
